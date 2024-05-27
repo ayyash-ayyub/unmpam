@@ -90,9 +90,8 @@ with st.sidebar:
     st.markdown(" ")
 
     # About the programmer
-    st.markdown("## Made by **Deepesh Mhatre** \U0001F609")
-    st.markdown("Contribute to this project at "
-                "[*github.com/deepeshdm*](https://github.com/deepeshdm/Realtime_Face_Detection)")
+    st.markdown("## Prodi Kom UMPAM 2024")
+  
 
 # -------------Image Upload Section------------------------------------------------
 
