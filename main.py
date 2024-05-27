@@ -12,7 +12,7 @@ st.set_page_config(page_title="Real-time Face Detection", page_icon="./assets/fa
 
 # -------------Header Section------------------------------------------------
 
-title = '<p style="text-align: center;font-size: 40px;font-weight: 550; ">Universitas Pamulang - FR Prototype V.1</p>'
+title = '<p style="text-align: center;font-size: 40px;font-weight: 550; ">Universitas Pamulang - FR Prototype V.1.0</p>'
 st.markdown(title, unsafe_allow_html=True)
 
 st.image("kop.png")
